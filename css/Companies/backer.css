@@ -9,5 +9,9 @@
 .uk-accordion .uk-accordion-title {
   background: #ffffff;
   border-color: #eee;
+  color: #908f91;
   font-family: "ffclanwebprobook", sans-serif;
+}
+.mobilnav {
+  color: #ddd;
 }
