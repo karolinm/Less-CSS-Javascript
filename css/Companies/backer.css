@@ -9,7 +9,5 @@
 .uk-accordion .uk-accordion-title {
   background: #ffffff;
   border-color: #eee;
-}
-.uk-accordion .uk-accordion-title h3 {
-  font-family: ffclanwebprobook, sans-serif;
+  font-family: "ffclanwebprobook", sans-serif;
 }
